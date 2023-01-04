@@ -13,7 +13,5 @@ for job in jobs:
     print(title_element.text)
 
 
-
-
-
-
+sms = "hello world"
+print(sms)
