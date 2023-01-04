@@ -14,6 +14,3 @@ for job in jobs:
 
 
 
-
-
-
